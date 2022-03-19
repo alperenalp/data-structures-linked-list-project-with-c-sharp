@@ -1,0 +1,50 @@
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe.config
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Form1.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csprojResolveAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.GenerateResource.Cache
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe.config
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\bin\Debug\odev1_link_list_V2.pdb
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Form1.resources
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.exe
+C:\Users\Alperen\Desktop\Yeni klasör\odev1_link_list_V2\odev1_link_list_V2\obj\Debug\odev1_link_list_V2.pdb
